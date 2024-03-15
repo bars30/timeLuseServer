@@ -1,0 +1,13 @@
+NODE_ENV=development
+PORT=3000
+CONN_STR=mongodb+srv://aDmin43:rVqebRP1fw83JSBi@cluster0.sxi3svi.mongodb.net/Watches?retryWrites=true&w=majority&appName=Cluster0
+LOCAL_CONN_STR=mongodb://localhost:27017/Watches
+DB_USER=aDmin43
+DB_PASSWORD=rVqebRP1fw83JSBi
+
+
+
+
+
+
+
